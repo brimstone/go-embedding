@@ -1,0 +1,2 @@
+# Word-vector data files: never diff or merge them as text.
+*.wv binary
